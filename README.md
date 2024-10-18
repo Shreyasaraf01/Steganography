@@ -55,12 +55,12 @@ python steganography_tool.py
 The tool uses the Least Significant Bit (LSB) method to encode messages within the pixel data of an image. By modifying the least significant bit of the color values of the image, the message is hidden without significantly altering the image's appearance.
 
 Example
-* *Encoding a message:*
-* Enter the path to the image.
-* Input the message to hide.
+* Encoding a message:
+ Enter the path to the image.
+ Input the message to hide.
 
-* *Decoding a message:*
-* Enter the path to the encoded image.
+* Decoding a message:
+ Enter the path to the encoded image.
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or additional features, please feel free to create a pull request or open an issue.
